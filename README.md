@@ -12,7 +12,7 @@ Welcome to my SQL data analysis portfolio! This repository contains a collection
 
 | Project | Description | Key Highlights |
 | :--- | :--- | :--- |
-| **[E-Commerce Analysis](./ecommerce-analysis/)** | Analysis of product sales, customer spending, and purchasing behavior for an online store. | `Window Functions`, `CTEs`, `Self-Joins`, `Cohort Analysis` |
+| **[E-Commerce Analysis](./e-commerce-analysis/)** | Analysis of product sales, customer spending, and purchasing behavior for an online store. | `Window Functions`, `CTEs`, `Self-Joins`, `Cohort Analysis` |
 | **[Global Data Analysis](./global-data-analysis/)** | Exploration of world happiness scores and their potential relationship with economic factors like inflation. | `Multi-Table JOINs`, `LAG`, `NTILE`, `Subqueries` |
 
 ##  Contact
